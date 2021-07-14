@@ -74,7 +74,12 @@ Todos estos valores también pueden ser obtenidos resolviendo el circuito por la
 
 ![image](https://user-images.githubusercontent.com/85178869/125625922-ff654a81-f114-4b1e-9a07-7cd798168d34.png)
 
+CON LA FUENTE DE 20V
+
 ![image](https://user-images.githubusercontent.com/85178869/125628914-21b0eb3c-aa2f-4378-8da5-1a05f4de6172.png)
+
+CON LA FUENTE DE 12V
+
 
 ![image](https://user-images.githubusercontent.com/85178869/125628958-9dc957e5-4bfd-47c0-8d07-310566c52084.png)
 
@@ -83,7 +88,7 @@ Todos estos valores también pueden ser obtenidos resolviendo el circuito por la
 
 4.5.1. Arme el circuito que se muestra en la figura 4.1.
 
-
+![image](https://user-images.githubusercontent.com/85178869/125630830-5a0a01c0-363d-4faa-98a6-c19887292a7b.png)
 
 
 4.5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
@@ -94,3 +99,6 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+
+
