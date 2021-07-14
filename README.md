@@ -71,3 +71,20 @@ Instalamos las 2  fuente de voltaje
 Efectuar y registrar las siguientes mediciones con el Multimetro digital
 
 Todos estos valores también pueden ser obtenidos resolviendo el circuito por la teoria de superposion 
+
+![image](https://user-images.githubusercontent.com/85178869/125625922-ff654a81-f114-4b1e-9a07-7cd798168d34.png)
+
+# 4  RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+4.5.1. Arme el circuito que se muestra en la figura 4.1.
+
+
+
+4.5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
+el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+4.5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
