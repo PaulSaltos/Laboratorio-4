@@ -101,11 +101,13 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-![image](https://user-images.githubusercontent.com/85178869/125634904-22fdbc3e-3b38-461b-9bbf-2f336ad87f96.png)
+Circuito A
+![image](https://user-images.githubusercontent.com/85178869/125648607-db797d4d-c7b3-46a9-a3e5-72941c8ec2bb.png)
+ 
+ Circuito B
+ 
+ ![image](https://user-images.githubusercontent.com/85178869/125649009-0b8078a1-350c-498e-b0d6-36d342784bf0.png)
 
-![image](https://user-images.githubusercontent.com/85178869/125634955-bda541cb-9b94-4187-b723-32fd0e2c68fb.png)
-
-![image](https://user-images.githubusercontent.com/85178869/125635056-0266ea8e-db50-44c0-9908-f4ce93d8313e.png)
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
