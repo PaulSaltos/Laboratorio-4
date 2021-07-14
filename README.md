@@ -109,6 +109,11 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
+![image](https://user-images.githubusercontent.com/85178869/125642848-ac26ca2f-5d3c-416c-b128-92ee7e66ff3c.png)
+Tabla 4.2. Medición de corriente aplicando superposición.
+
+![image](https://user-images.githubusercontent.com/85178869/125643414-b94c61b6-7f20-4b2f-b75a-259afdc59b4c.png)
+
 # 5 Video
 
 # 6 Conclusioneso
