@@ -74,6 +74,8 @@ Todos estos valores también pueden ser obtenidos resolviendo el circuito por la
 
 ![image](https://user-images.githubusercontent.com/85178869/125625922-ff654a81-f114-4b1e-9a07-7cd798168d34.png)
 
+
+
 # 4  RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 4.5.1. Arme el circuito que se muestra en la figura 4.1.
