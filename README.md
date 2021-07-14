@@ -36,7 +36,8 @@ Comprender  Teorema de Superposicion , y poder establecer una relación entre el
 
 # Marco Teorico
 
-
+![image](https://user-images.githubusercontent.com/85178869/125641225-57126a37-4335-4975-b37a-a727b15385b7.png)
+![image](https://user-images.githubusercontent.com/85178869/125641319-f215f280-5c6f-4a8b-a1ee-7a0c2c92b853.png)
 
 #  3.EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -100,5 +101,26 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+![image](https://user-images.githubusercontent.com/85178869/125634904-22fdbc3e-3b38-461b-9bbf-2f336ad87f96.png)
 
+![image](https://user-images.githubusercontent.com/85178869/125634955-bda541cb-9b94-4187-b723-32fd0e2c68fb.png)
 
+![image](https://user-images.githubusercontent.com/85178869/125635056-0266ea8e-db50-44c0-9908-f4ce93d8313e.png)
+
+Tabla 4.1. Medición de voltaje aplicando superposición.
+
+# 5 Video
+
+# 6 Conclusioneso
+
+• El método o teorema de superposición es de gran utilidad para analizar circuitos quetengan dos o más fuentes, ya que al analizarlo fuente por fuente el análisis resultará mássencillo de realizar.
+
+• Se comprobó que los resultados obtenidos mediante el método de superposición sonsimilares a los datos obtenidos en la simulación del circuito.
+
+•Al resolver un circuito eléctrico por el método de superposición tendremos perdida dedecimales, lo que causara que los resultados calculados varíen de los obtenidos en lasimulación.
+
+# 7 Bibliografia
+
+• Evdokimov, F. E. (1981).Teoreticheskie osnovi electrotejniki. Moscú: Vysshaia shcola.
+
+• Kasatkin, A. S., Nemtsov, M. V. (1983). Electrotejnika. Moscú: Energoatomizdat
